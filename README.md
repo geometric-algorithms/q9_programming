@@ -1,6 +1,8 @@
 # CS603_Project
 This Project is about finding the maximum density axis aligned square given points in 2d dimesnion.
-
+# Teammates
+Karanam Lokesh 210050081  
+Varada Mahanth Naidu 210050161  
 # Part A
 Static implementation of the Maximum Density Square problem  
 input the points in the following format in input.txt file  
